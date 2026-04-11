@@ -1,4 +1,4 @@
-# Pixelate
+# SDLStarterPack
 
 cmake -S . -B build
 cmake --build build
